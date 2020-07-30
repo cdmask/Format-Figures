@@ -1,3 +1,3 @@
 # Format-Figures
 
-# This is a test
+Some matlab scripts for formatting figures for publications.
